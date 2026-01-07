@@ -6,7 +6,7 @@ I develop whatever I can imagine.
 
 If an idea pops in to my head, changes are I'll build it.
 
-My main tech stack is Python, and C. My favorite tool is VSCode.
+My main tech stack is Python, HTML, CSS, JavaScript, React, Next.js and C. My favorite tool is VSCode.
 
 I've got a bunch of pinned projects, but my favorite is Shop Management App.
 <!--
